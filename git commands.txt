@@ -1,0 +1,14 @@
+For NEW projects
+- open the project folder 
+- open it using git bash
+- on github, get the new repo url
+
+- on gitbash: git init 
+- git add .
+- git commit -m "commit msg"
+- git remote add origin ${git_repo_url}.git 
+- git remote add destination ${git_repo_url}.git 
+- git remote -v
+- git push -f github master
+
+done!!!
